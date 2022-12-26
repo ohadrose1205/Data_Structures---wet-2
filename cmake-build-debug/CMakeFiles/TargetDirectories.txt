@@ -1,0 +1,3 @@
+C:/Users/ohadr/Documents/GitHub/Data_Structures---wet-2/cmake-build-debug/CMakeFiles/Data_Structures___wet_2.dir
+C:/Users/ohadr/Documents/GitHub/Data_Structures---wet-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ohadr/Documents/GitHub/Data_Structures---wet-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
